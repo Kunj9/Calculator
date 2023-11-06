@@ -1,0 +1,25 @@
+# Calculator
+This is a basic calculator implemented in HTML and JavaScript. It allows you to perform simple arithmetic operations like addition, subtraction, multiplication, division, and calculating percentages.
+
+## Usage
+1. Open the HTML file in a web browser.
+2. Enter the first number in the "Number1" field.
+3. Select an operator (+, -, /, X for multiplication, % for percentage) from the dropdown menu.
+4. Enter the second number in the "Number2" field.
+5. Click the "=" button to calculate the result.
+6. The result will be displayed in the "Result" field.
+
+## Features
+- Addition: Add two numbers by selecting the "+" operator.
+- Subtraction: Subtract the second number from the first by selecting the "-" operator.
+- Division: Divide the first number by the second by selecting the "/" operator.
+- Multiplication: Multiply two numbers by selecting the "X" operator.
+- Percentage: Calculate the percentage of the second number with respect to the first by selecting the "%" operator.
+
+## How It Works
+The calculator takes two numeric inputs (Number1 and Number2) and an operator input. When you click the "=" button, it performs the corresponding arithmetic operation based on the selected operator and displays the result in the "Result" field.
+
+## Customization
+You can customize the calculator's appearance and styling by modifying the HTML and CSS code in the provided files.
+
+Feel free to use this code as a starting point for creating your own calculator web application or as a reference for learning HTML and JavaScript.
